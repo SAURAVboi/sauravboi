@@ -8,10 +8,10 @@ My name is Saurav Yadav, and I’m the creator and admin of the Codemun YouTube 
 ![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![JavaScript](./assets/javascript.svg) !
 
 
-- **Instagram**: [saurav.boi_]([https://www.instagram.com/saurav.boi_/](https://www.instagram.com/saurav.boi_))
+- **Instagram**: [saurav.boi_]([https://www.instagram.com/saurav.boi_/](https://www.instagram.com/saurav.boi_)
   Follow my journey as I share snippets of my coding adventures and more.
 
-- **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://in.linkedin.com/in/techsavvydeveloperinnovates))
+- **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://in.linkedin.com/in/techsavvydeveloperinnovates)
   Let’s connect professionally! I’m always open to networking with fellow creators, developers, and learners.
 
 ## Projects on YouTube
