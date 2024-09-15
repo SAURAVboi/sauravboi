@@ -1,13 +1,12 @@
-# Thy Codemun
+### ✨ Who am I?
+My name is Saurav Yadav, and I’m the creator and admin of the Codemun YouTube channel, where I share tutorials and content related to web development and coding. On this page, you’ll find all of the code snippets and projects that I demonstrate in my YouTube tutorials. Feel free to explore, learn, and use the code in your own projects!
 
-Welcome to my GitHub profile! I’m passionate about **coding**, **technology**, and **content creation**. Here, you’ll find my projects, ideas, and contributions.
+#### 🔗 My Youtube channel
+[![YouTube](./assets/youtube.svg)](www.youtube.com/@CODEMUNISLOVE)
 
-Feel free to connect with me through my social media channels!
+#### 💻 Technologies that I use
+![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![JavaScript](./assets/javascript.svg) !
 
-## Connect with Me
-
-- **YouTube**: [Codemun](www.youtube.com/@CODEMUNISLOVE)  
-  I create tutorials and share coding tips. Check out my latest videos, including a to-do list project using JavaScript!
 
 - **Instagram**: [saurav.boi_]([https://www.instagram.com/saurav.boi_/](https://www.instagram.com/saurav.boi_))
   Follow my journey as I share snippets of my coding adventures and more.
